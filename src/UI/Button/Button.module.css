@@ -1,0 +1,11 @@
+.Btn {
+  border: 1px solid #61dbfb;
+  background-color: transparent;
+  color: #61dbfb;
+  padding: 3px;
+  margin: 3px;
+}
+.Btn:hover {
+  background-color: #61dbfb;
+  color: black;
+}
